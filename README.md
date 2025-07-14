@@ -1,7 +1,7 @@
 
 # Hi, I'm Anatolios! 👋
 ## 🚀 About Me
-Currently working at McCann Worldgroup as a Junior Web Developer, I continue to enhance my expertise in creating dynamic and engaging web experiences using HTML, CSS, and JavaScript. With a passion for learning and coding, I’m focused on delivering functional, interactive designs while also exploring new front-end technologies. Outside of coding, I enjoy staying active with regular exercise during my free time.
+Currently working at McCann Worldgroup as a Web Developer, I continue to enhance my expertise in creating dynamic and engaging web experiences using HTML, CSS, and JavaScript. With a passion for learning and coding, I’m focused on delivering functional, interactive designs while also exploring new front-end technologies. Outside of coding, I enjoy staying active with regular exercise during my free time.
 
 
 ## 🛠 Skills
