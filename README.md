@@ -4,10 +4,6 @@ Web developer at **McCann Athens** — websites, campaign activations, and
 AI-powered web apps for consumer brands. Creator of
 [SlotWise](https://slotwise.gr), a commercial appointment-booking SaaS.
 
-My path to the web went through hardware: four years as an electronics
-engineer on elevator systems, where building the company's product website
-made me fall in love with coding.
-
 ## Building
 
 - **[SlotWise](https://slotwise.gr)** — appointment-booking SaaS for service
