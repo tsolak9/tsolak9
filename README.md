@@ -2,11 +2,11 @@
 
 Web developer at **McCann Athens** — websites, campaign activations, and
 AI-powered web apps for consumer brands. Creator of
-[SlotWise](https://slotwise.gr), a commercial appointment-booking SaaS.
+[slotwise](https://slotwise.gr), a commercial appointment-booking SaaS.
 
 ## Building
 
-- **[SlotWise](https://slotwise.gr)** — appointment-booking SaaS for service
+- **[slotwise](https://slotwise.gr)** — appointment-booking SaaS for service
   businesses. Laravel · Inertia.js · React · Tailwind CSS · Stripe
 - **[INTD0901 Dashboard](https://intd0901.tsolakidisanatolios.gr)** — config
   & live-monitoring dashboard for a safety-certified elevator emergency
