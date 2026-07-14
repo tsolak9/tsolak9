@@ -25,6 +25,6 @@ AI tooling in the loop: `Claude Code` `Codex` `Pi Agent` `LLM APIs` `RAG`
 ## Reach me
 
 [tsolakidisanatolios.gr](https://tsolakidisanatolios.gr) ·
-[LinkedIn](https://www.linkedin.com/in/anatolios-tsolakidis-291b52234/) ·
+[LinkedIn](https://www.linkedin.com/in/anatolios-tsolakidis/) ·
 [X](https://x.com/tsolakidis94) ·
 tsolakidis.anatolios@gmail.com
