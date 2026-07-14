@@ -20,7 +20,7 @@ AI-powered web apps for consumer brands. Creator of
 `JavaScript` `TypeScript` `PHP` `Laravel` `React` `Tailwind CSS` `GSAP`
 `WordPress` `Shopify` `Stripe` `Salesforce` `Docker` `Linux`
 
-AI tooling in the loop: `Claude Code` `Codex` `Pi Agent` `LLM APIs`
+AI tooling in the loop: `Claude Code` `Codex` `Pi Agent` `LLM APIs` `RAG`
 
 ## Reach me
 
